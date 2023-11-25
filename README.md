@@ -2,7 +2,7 @@
 
 <hr>
 
-![](web-page.png)
+![](web-page.jpg)
 
 ## How to run Locally?
 
