@@ -41,5 +41,7 @@ python manage.py runserver
 
 ![](presentation/diagram/sequence-Diagrams/EditPost.jpg)
 
+### Write Comment
 
+![](presentation/diagram/sequence-Diagrams/WriteComment.jpg)
 
