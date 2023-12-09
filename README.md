@@ -45,3 +45,6 @@ python manage.py runserver
 
 ![](presentation/diagram/sequence-Diagrams/WriteComment.jpg)
 
+## Activity Diagram
+
+![](presentation/diagram/Activity-Diagrams/Activity-diagram.png)
