@@ -30,3 +30,8 @@ python manage.py migrate
 python manage.py runserver
 # running project in http://localhost:8000
 ```
+
+
+![](presentation/diagram/sequence-Diagrams/CreatePost.jpg)
+
+
