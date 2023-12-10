@@ -48,3 +48,11 @@ python manage.py runserver
 ## Activity Diagram
 
 ![](presentation/diagram/Activity-Diagrams/Activity-diagram.png)
+
+## Entity Relation Diagram
+
+![](presentation/diagram/ERD/erd-diagram.png)
+
+
+
+
