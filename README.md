@@ -30,6 +30,13 @@ python manage.py migrate
 python manage.py runserver
 # running project in http://localhost:8000
 ```
+
+
+
+# Use Case
+![](presentation/Use-Case/Report.pdf)
+
+
 # Diagrams
 ## Sequence Diagrams
 
