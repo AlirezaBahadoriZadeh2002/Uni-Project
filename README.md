@@ -34,8 +34,8 @@ python manage.py runserver
 
 
 # Use Case
-![](presentation/Use-Case/Report.pdf)
 
+- [Use-Cases](./presentation/Use-Case/Report.pdf)
 
 # Diagrams
 ## Sequence Diagrams
