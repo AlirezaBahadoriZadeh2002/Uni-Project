@@ -32,18 +32,36 @@ python manage.py runserver
 ```
 # Diagrams
 ## Sequence Diagrams
+
+### SignUp
+
+![](presentation/diagram/Sequence-Diagrams/signup.png)
+
+### Login
+
+![](presentation/diagram/Sequence-Diagrams/login.png)
+
+
 ### Create Post
 
-![](presentation/diagram/sequence-Diagrams/CreatePost.jpg)
+![](presentation/diagram/Sequence-Diagrams/createpost.png)
 
 
 ### Edit Post
 
-![](presentation/diagram/sequence-Diagrams/EditPost.jpg)
+![](presentation/diagram/Sequence-Diagrams/editpost.png)
+
 
 ### Write Comment
 
-![](presentation/diagram/sequence-Diagrams/WriteComment.jpg)
+![](presentation/diagram/Sequence-Diagrams/writecommand.png)
+
+
+
+### Like Post
+
+![](presentation/diagram/Sequence-Diagrams/likepost.png)
+
 
 ## Activity Diagram
 
