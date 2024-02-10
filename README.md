@@ -76,7 +76,7 @@ python manage.py runserver
 
 ## Entity Relation Diagram
 
-![](presentation/diagram/ERD/erd-diagram.png)
+![](presentation/diagram/ERD/erd.png)
 
 
 
