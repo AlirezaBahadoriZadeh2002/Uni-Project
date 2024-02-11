@@ -76,6 +76,9 @@ python manage.py runserver
 ### Edit Profile
 ![](presentation/diagram/Sequence-Diagrams/editprofile.png)
 
+### Change Password
+![](presentation/diagram/Sequence-Diagrams/changepassword.png)
+
 
 ### Logout
 ![](presentation/diagram/Sequence-Diagrams/logout.png)
@@ -96,7 +99,7 @@ python manage.py runserver
 
 
 
-## Change Password
+
 ## Edit Commnet
 ## Remove Cooment
 
