@@ -78,6 +78,10 @@ python manage.py runserver
 
 ![](presentation/diagram/ERD/erd.png)
 
+## Class Diagram
+
+![](presentation/diagram/Class-Diagram/class-diagram.png)
+
 ## LogOut
 ## Remove Post
 ## Change Profile
