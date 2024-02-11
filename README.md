@@ -82,7 +82,7 @@ python manage.py runserver
 ### Edit Comment
 ![](presentation/diagram/Sequence-Diagrams/editcomment.png)
 
-## Remove Comment
+### Remove Comment
 ![](presentation/diagram/Sequence-Diagrams/removecomment.png)
 
 
