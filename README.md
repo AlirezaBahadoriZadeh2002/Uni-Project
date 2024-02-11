@@ -72,7 +72,8 @@ python manage.py runserver
 ### Remove Post
 ![](presentation/diagram/Sequence-Diagrams/removepost.png)
 
-## Change Profile
+
+## Edit Profile
 ![](presentation/diagram/Sequence-Diagrams/changeprofile.png)
 
 
