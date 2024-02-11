@@ -72,7 +72,8 @@ python manage.py runserver
 ### Remove Post
 ![](presentation/diagram/Sequence-Diagrams/removepost.png)
 
-
+## Change Profile
+![](presentation/diagram/Sequence-Diagrams/changeprofile.png)
 
 
 ### Logout
@@ -92,8 +93,8 @@ python manage.py runserver
 ![](presentation/diagram/Class-Diagram/class-diagram.png)
 
 
-## Remove Post
-## Change Profile
+
+
 ## Change Password
 ## Edit Commnet
 ## Remove Cooment
