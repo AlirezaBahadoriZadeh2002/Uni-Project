@@ -68,8 +68,14 @@ python manage.py runserver
 
 ![](presentation/diagram/Sequence-Diagrams/likepost.png)
 
-## Logout
 
+### Remove Post
+![](presentation/diagram/Sequence-Diagrams/removepost.png)
+
+
+
+
+### Logout
 ![](presentation/diagram/Sequence-Diagrams/logout.png)
 
 
