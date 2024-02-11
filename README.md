@@ -78,6 +78,13 @@ python manage.py runserver
 
 ![](presentation/diagram/ERD/erd.png)
 
+## LogOut
+## Remove Post
+## Change Profile
+## Change Password
+## Edit Commnet
+## Remove Cooment
+
 
 
 
