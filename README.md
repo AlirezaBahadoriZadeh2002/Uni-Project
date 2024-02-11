@@ -73,8 +73,8 @@ python manage.py runserver
 ![](presentation/diagram/Sequence-Diagrams/removepost.png)
 
 
-## Edit Profile
-![](presentation/diagram/Sequence-Diagrams/changeprofile.png)
+### Edit Profile
+![](presentation/diagram/Sequence-Diagrams/editprofile.png)
 
 
 ### Logout
