@@ -64,10 +64,13 @@ python manage.py runserver
 ![](presentation/diagram/Sequence-Diagrams/writecommand.png)
 
 
-
 ### Like Post
 
 ![](presentation/diagram/Sequence-Diagrams/likepost.png)
+
+## Logout
+
+![](presentation/diagram/Sequence-Diagrams/logout.png)
 
 
 ## Activity Diagram
@@ -82,7 +85,7 @@ python manage.py runserver
 
 ![](presentation/diagram/Class-Diagram/class-diagram.png)
 
-## LogOut
+
 ## Remove Post
 ## Change Profile
 ## Change Password
