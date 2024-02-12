@@ -35,7 +35,7 @@ python manage.py runserver
 
 # Use Case
 
-- [Use-Cases](./presentation/Use-Case/Report.pdf)
+- [Use-Cases](./presentation/Use-Case/UseCases.pdf)
 
 # Diagrams
 ## Sequence Diagrams
